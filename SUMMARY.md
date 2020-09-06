@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [들어가기](README.md)
 
